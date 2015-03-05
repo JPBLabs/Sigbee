@@ -25,4 +25,4 @@ Sofware :
 
 La librairie " SigfoxModem " peut être utilisée avec l'IDE Arduino. Le dossier contient un exemple testé avec l'IDE Arduino v1.0.4.
 	
-Le code source est sous licence GNU GPL v2, la carte quant à elle est sous licence CC-by-NC-SA
+Le code source est sous licence GNU GPL v2, la carte quant à elle est sous licence CC-by-NC-SA.
