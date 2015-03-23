@@ -4,7 +4,7 @@ Introduction :
 --------------
 
 Cette carte permet une utilisation simple de la puce Sigfox TD1208. En effet elle embarque un régulateur 3V qui permet d'une part d'alimenter la puce et d'autre part d'adapter la tension.
-Ainsi on peux travailler sur une carte mère alimenter par une tension supérieure à 3V et utiliser également la puce de communication.
+Ainsi on peux travailler sur une carte mère alimentée par une tension supérieure à 3V et utiliser également la puce de communication.
 
 
 Hardware : 
